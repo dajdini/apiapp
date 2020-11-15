@@ -1,0 +1,144 @@
+.Image{
+   width: 100%;
+  }
+  
+  .ImageText{
+    text-align: center;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 40px;
+  }
+
+  .ImageText button {
+    border: 3px solid #ffffff;
+    display: inline-block;
+    border-radius: 4px;
+    padding: 15px 35px;
+    color: #ffffff;
+    background-color:transparent;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    cursor: pointer;
+    font-size: x-large;
+  }
+
+  body{
+      background-color: rgb(221, 221, 221);
+  }
+  
+  .Layout{
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 1%;
+    font-family: 'Lato', sans-serif;
+    position: static;
+    display: inline-block;
+  }
+
+  .Layout2{
+    margin-right: 10%;
+    margin-top: 5%;
+    width: 50%;
+    margin-bottom: 1%;
+    font-family: 'Lato', sans-serif;
+    text-align: right;
+    display: inline-block;
+  }
+  
+  .footerHome{
+    background-color: black;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    color: white;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    padding: 15px 15px;
+    font-size: large;
+    bottom: 5%;
+    width: 100%;
+    position: relative;
+  }
+
+  hr{
+    margin-right: 13.5%;
+    margin-left: 10%;
+    color: #eeeeee;
+    margin-bottom: 5%;
+  }
+
+  .booksP{
+    text-align: center;
+    border: 3px solid #949494;
+    border-radius: 10px;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 1%;
+    font-family: 'Lato', sans-serif;
+    width: 33%;
+    display: inline-block;
+  }
+
+  .booksP button{
+    margin-bottom: 20%;
+    border: 3px solid #000000;
+    display: inline-block;
+    border-radius: 4px;
+    padding: 15px 35px;
+    color: #000000;
+    background-color:transparent;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    margin-top: 10%;
+    font-size: large; 
+  }
+
+  .Weather{
+    text-align: center;
+    border: 3px solid #949494;
+    border-radius: 10px;
+    margin-left: 10%;
+    position: static;
+    margin-top: 5%;
+    margin-bottom: 1%;
+    margin-right: 10%;
+    font-family: 'Lato', sans-serif;
+    width: 33%;
+    display: inline-block;
+  }
+
+  .Weather button{
+      margin-bottom: 20%;
+      border: 3px solid #000000;
+      display: inline-block;
+      border-radius: 4px;
+      padding: 15px 35px;
+      color: #000000;
+      background-color:transparent;
+      text-align: center;
+      font-family: 'Lato', sans-serif;
+      margin-top: 10%;
+      font-size: large;
+  }
+  
+  .image3{
+    text-align: center;
+    margin-top: 20%;
+    margin-bottom: 5%;
+  }
+
+  .image4{
+    text-align: center;
+    margin-top: 20%;
+    margin-bottom: 5%; 
+  }
+
+  footer{
+    text-align: center; 
+    font-family: 'Lato', sans-serif;
+  }
+
+  @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500&family=Lato&family=Rubik&display=swap');
